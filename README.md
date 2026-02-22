@@ -34,3 +34,7 @@ _*Not yet, since the game is still raw*_
    ```bash
    git clone https://github.com/YOUR_USERNAME/SpaceShooter.git
    cd SpaceShooter
+
+
+
+_*If anything, this is my first project and I will be glad to any comments*_
